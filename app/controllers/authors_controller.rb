@@ -15,8 +15,5 @@ class AuthorsController < ApplicationController
      render template: 'posts/show'
    end
 
-  # def show
-  #
-  # end
 
 end
